@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Weather App
 
-A weather app with a stylish pixel aesthetic made using React and OpenWeatherMap API. A live demo can be found [here]().
+A weather app with a stylish pixel aesthetic made using React and OpenWeatherMap API. A live demo can be found [here](https://pixelweather.netlify.app/).
 
 ## Run Locally
 
