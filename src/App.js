@@ -40,7 +40,7 @@ function App() {
       (typeof weather.main != "undefined") 
         ? ((weather.weather[0].main === "Clouds") 
           ? 'app cloudy' 
-        : (weather.weather[0].main === "Rain")
+        : (weather.weather[0].main === "Rain" || "Thunderstorm" || "Drizzle")
           ? 'app rain'
         : (weather.weather[0].main === "Snow")
           ? 'app snow'
